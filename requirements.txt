@@ -1,0 +1,7 @@
+# developer notes
+pytest
+coverage xml
+python -m pip install -r requirements.txt
+# project metadata
+pytest>=8.0
+coverage
