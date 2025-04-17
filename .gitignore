@@ -1,14 +1,14 @@
 __pycache__/
 *.pyc
 .DS_Store
+AGENTS.md
 .venv
 .tmp/
 build/
 dist/
 .cache/
-node_modules/
-AGENTS.md
 CLAUDE.md
+node_modules/
 .claude
 coverage/
 .ipynb_checkpoints/
